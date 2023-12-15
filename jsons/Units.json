@@ -158,7 +158,7 @@
 		"movement": 7,
 		"strength": 75,
 		"cost": 400,
-		"requiredTech": "Combistion",
+		"requiredTech": "Combustion",
 		"uniques": ["increases damage and manufacturing cost"],
 		"requiredResource": "Oil",
 		"attackSound": "shipguns"
