@@ -150,4 +150,17 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
+	//Japan
+	{       "name": "IJN Ayanami",
+		"unitType":" Melee Water",
+		"uniqueTo": "Japan",
+		"replaces": "Destroyer",
+		"movement": 7,
+		"strength": 75,
+		"cost": 400,
+		"requiredTech": "Combistion",
+		"uniques": ["increases damage and manufacturing cost"],
+		"requiredResource": "Oil",
+		"attackSound": "shipguns"
+	},
 ]
